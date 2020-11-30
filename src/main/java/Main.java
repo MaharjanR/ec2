@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Testing 2");
         System.out.println("Changed to shell instead of windows batch");
         System.out.println("Changed the source");
+        System.out.println("Added JDK in jenkins from manage jenkins tab");
     }
 }
