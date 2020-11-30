@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Practising jenkins on ec2");
         System.out.println("asdasdsadsa");
+        System.out.println("Testing 2");
     }
 }
